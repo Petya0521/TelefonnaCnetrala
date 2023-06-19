@@ -6,3 +6,11 @@ C:\Users\STUDENTS-STEM-22\Desktop\11a\TelephoneExchange\obj\Debug\TelephoneExcha
 C:\Users\STUDENTS-STEM-22\Desktop\11a\TelephoneExchange\obj\Debug\TelephoneExchange.csproj.CoreCompileInputs.cache
 C:\Users\STUDENTS-STEM-22\Desktop\11a\TelephoneExchange\obj\Debug\TelephoneExchange.exe
 C:\Users\STUDENTS-STEM-22\Desktop\11a\TelephoneExchange\obj\Debug\TelephoneExchange.pdb
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\obj\Debug\TelephoneExchange.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\obj\Debug\TelephoneExchange.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\obj\Debug\TelephoneExchange.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\obj\Debug\TelephoneExchange.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\obj\Debug\TelephoneExchange.pdb
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\bin\Debug\TelephoneExchange.exe.config
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\bin\Debug\TelephoneExchange.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\TelephoneExchange\TelefonnaCnetrala\bin\Debug\TelephoneExchange.pdb
